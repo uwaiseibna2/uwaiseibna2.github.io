@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>438 Engineering East /p>
+    <p>438 Engineering East </p>
     <p>777 Glades Rd</p>
     <p>Boca Raton, FL, 33486</p>
 
