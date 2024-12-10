@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Islam UI.
+title: Uwaise Ibna Islam
 permalink: /
 subtitle: Graduate Research Assistant, PhD Candidate, FAU
 
