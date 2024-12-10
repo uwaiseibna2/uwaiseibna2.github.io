@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: Islam UI.
 permalink: /
 subtitle: Graduate Research Assistant, PhD Candidate, FAU
 
 profile:
   align: right
-  image: IMG_7136.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>438 Engineering East </p>
