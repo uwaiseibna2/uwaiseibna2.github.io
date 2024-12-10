@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Uwaise Ibna Islam
+title: about
 permalink: /
 subtitle: Graduate Research Assistant, PhD Candidate, FAU
 
